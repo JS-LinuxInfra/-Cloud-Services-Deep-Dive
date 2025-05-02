@@ -18,7 +18,7 @@ This project covers multiple core services on various cloud platforms. This proj
 ## Tasks - IAM
 
 ### Determine the number of created users using the GUI.
-![Step1](images/step1.jpg)
+![Step1](images/step1.png)
 
 ### Validate logged-in user deatils using Cloudshell.
 ![Step2](images/step2.jpg)
