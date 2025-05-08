@@ -58,3 +58,21 @@ This project covers multiple core services on various cloud platforms. This proj
 
 ### Add user 2 to group 2.
 ![Step14](images/step14.png)
+
+### Created S3 bucket for secure file storage.
+![Step15](images/step15.png)
+
+### Created IAM user group.
+![Step16](images/step16.png)
+
+### Create multiple JSON IAM policies.
+![Step17](images/step17.png)
+
+### Attach created policy to created group.
+![Step18](images/step18.png)
+
+### Create two new roles in IAM.
+![Step19](images/step19.png)
+
+### Attach created JSON IAM policy to created IAM role.
+![Step20](images/step20.png)
